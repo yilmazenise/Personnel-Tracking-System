@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\bin\Debug\Personel_Tanima.exe.config
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\bin\Debug\Personel_Tanima.exe
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\bin\Debug\Personel_Tanima.pdb
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.Form1.resources
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.kayit_formu.resources
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.Properties.Resources.resources
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.csproj.GenerateResource.cache
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.exe
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.pdb
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.kartGoruntuleme.resources
+C:\Users\User\Desktop\staj defteri - mesan\Personel Takip Projesi\Personel_Tanima\Personel_Tanima\obj\Debug\Personel_Tanima.YetkilendirmeEkrani.resources
